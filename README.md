@@ -5,7 +5,7 @@
 
 ## Getting started
 
-3. Install dependencies:
+1. Install dependencies:
 
 ```sh
 pnpm i
