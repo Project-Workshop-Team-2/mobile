@@ -12,6 +12,9 @@
     "clean": "rm -rf .expo node_modules",
     "postinstall": "npx tailwindcss -i ./global.css -o ./node_modules/.cache/nativewind/global.css"
   },
+  "engines": {
+    "node": ">=22.x.x"
+  },
   "dependencies": {
     "@react-navigation/native": "^7.0.0",
     "@rn-primitives/avatar": "~1.1.0",
